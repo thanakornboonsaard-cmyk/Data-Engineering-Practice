@@ -1,6 +1,6 @@
-# aCommerce Data Engineer Quiz
+# E-commerce Data Engineer Quiz
 
-Submission project for the aCommerce Data Engineer quiz. The repository contains two deliverables:
+Submission project for the E-Commerce Data Engineer quiz. The repository contains two deliverables:
 
 - `1_python_submit`: a Python ETL pipeline that scrapes book data from `http://books.toscrape.com/`, saves raw JSON, filters the data, and writes a CSV result.
 - `2_sql_submit`: PostgreSQL DDL, data ingestion script, ER diagram, and analytical SQL queries for monthly promotion sales and FIFO COGS.
